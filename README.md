@@ -54,6 +54,7 @@ Lidar-equipped drones are used in applications such as surveying, mapping, fores
 - [OpenTopography](https://opentopography.org/) — Public Lidar datasets including drone-collected data.
 - [USGS 3DEP Lidar Data](https://www.usgs.gov/3d-elevation-program) — Nationwide elevation data using Lidar.
 - [UAV Lidar Research Papers (Google Scholar)](https://scholar.google.com/scholar?q=uav+lidar) — Academic research on drone Lidar systems.
+- [Laser Rangefinder Module Database](https://github.com/ErdiTech/laser-rangefinder-module-database) — Open, manufacturer-sourced dataset of 165 single-point laser rangefinder / LiDAR modules from 12 makers (range with target condition, wavelength, accuracy, interface, weight).
 
 ## Case Studies & Applications
 
